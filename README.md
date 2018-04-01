@@ -24,4 +24,4 @@
   * pip install tldextract --OR-- python -m pip install tldextract
 
 ### Screenshot:
-<img src="https://github.com/redhuntlabs/Maltego/raw/master/Maltego_Local_Transforms.jpg" width="32%">
+<img src="https://github.com/redhuntlabs/Maltego/raw/master/Maltego_Local_Transforms.jpg" width="40%">
