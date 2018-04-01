@@ -1,0 +1,25 @@
+<Seed Pos="10" Display="RedHunt - Domain Information">
+	<Url Visible="false">https://github.com/redhuntlabs/Maltego/tree/master/Transforms</Url> <!--visible is optional, default "false"--> 
+	<Description>Query Domain Information</Description> 
+	<Details>Find various details related to a domain such as SPF and DMARK record.</Details> 
+	<Modified>1522596265</Modified> <!-- unix time --> 
+	<Icon><!-- 48x48px png--> 
+		<Url>https://github.com/redhuntlabs/redhuntlabs.github.io/raw/master/RedHunt.png</Url> 
+	</Icon>
+	<Provider>
+		<Name>RedHunt Labs</Name>
+		<Website>https://github.com/redhuntlabs/Maltego/tree/master/Transforms</Website>
+		<Email>sudhanshuchauhan@outlook.com</Email>
+		<Phone></Phone> 
+	</Provider>
+	<Registration>
+		<Website></Website>
+	</Registration>
+	<Pricing>
+		<Info></Info>
+		<Website></Website>
+	</Pricing>
+	<Inputs> 
+		<!-- Examples... --> 
+	</Inputs> 
+</Seed>
