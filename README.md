@@ -2,7 +2,9 @@
 
 ## Transform Category:
 ### Domain
-* DMARK [Python Libraries Required: https://github.com/lunarca/pyemailprotectionslib & tldextract]
+* *DMARK*: Extract Domain-based Message Authentication, Reporting & Conformance Information
+
+  #### [Python Libraries Required: https://github.com/lunarca/pyemailprotectionslib & tldextract]
 
   #### git clone https://github.com/lunarca/pyemailprotectionslib.git --OR-- Download and extract https://github.com/lunarca/pyemailprotectionslib/archive/master.zip
   #### cd pyemailprotectionslib
@@ -10,7 +12,10 @@
   
   #### pip install tldextract --OR-- python -m pip install tldextract
 
-* SPF [Python Libraries Required: https://github.com/lunarca/pyemailprotectionslib & tldextract]
+
+* *SPF*: Extract Sender Policy Framework Record Information 
+
+  #### [Python Libraries Required: https://github.com/lunarca/pyemailprotectionslib & tldextract]
 
   #### git clone https://github.com/lunarca/pyemailprotectionslib.git --OR-- Download and extract https://github.com/lunarca/pyemailprotectionslib/archive/master.zip
   #### cd pyemailprotectionslib
